@@ -207,6 +207,7 @@ ol {
   display: block;
   text-decoration: none;
   color: #fff;
+  cursor: pointer;
 }
 
 .content__video-card {
@@ -293,10 +294,9 @@ ol {
 
 .content__card-link_current {
   background-color: #545050;
-  cursor: pointer;
 }
 
-.content__video-card:hover {
+.content__card-link:hover {
   text-decoration: underline;
 }
 
