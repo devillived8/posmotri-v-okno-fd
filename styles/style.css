@@ -88,12 +88,11 @@ ol {
   align-items: flex-end;
   max-width: 1140px;
   gap: 30px;
-  margin-bottom: -8px;
 }
 
 .result {
   align-self: flex-end;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
   display: flex;
   flex-direction: column;
   gap: 16px;
